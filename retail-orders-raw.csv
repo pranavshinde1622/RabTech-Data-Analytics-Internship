@@ -1,0 +1,12 @@
+order_id,order_date,customer_segment,city,category,quantity,unit_price,discount_pct,payment_status,gross Sales, discount_pctage,net revenue,Avg order value,units sold,profit margin
+RT-1001,03-01-2026,Student,Chennai,Learning Kit,2,799,10,Paid,1598,159.8,1438.2,130.7454545,2,111.1111111
+RT-1002,03-01-2026,Fresher,Bengaluru,Course Access,1,1499,0,Paid,1499,0,1499,136.2727273,1,100
+RT-1003,05-01-2026,student,Chennai,Course Access,1,1499,5,Pending,1499,74.95,1424.05,129.4590909,1,105.2631579
+RT-1004,07-01-2026,Professional,Hyderabad,Learning Kit,3,799,5,Paid,2397,119.85,2277.15,207.0136364,3,105.2631579
+RT-1005,09-01-2026,Fresher,Pune,Mentor Session,1,999,0,Failed,999,0,999,90.81818182,1,100
+RT-1006,10-01-2026,Student,Pune,Learning Kit,1,799,10,Paid,799,79.9,719.1,65.37272727,1,111.1111111
+RT-1007,12-01-2026,Professional,Mumbai,Mentor Session,2,999,10,Paid,1998,199.8,1798.2,163.4727273,2,111.1111111
+RT-1008,14-01-2026,Fresher,Bengaluru,Course Access,2,1499,0,Pending,2998,0,2998,272.5454545,2,100
+RT-1009,16-01-2026,Student,Chennai,Learning Kit,1,799,0,Paid,799,0,799,72.63636364,1,100
+RT-1010,18-01-2026,Professional,Delhi,Course Access,2,1499,15,Refunded,2998,449.7,2548.3,231.6636364,2,117.6470588
+RT-1011,20-01-2026,Student,Kochi,Mentor Session,1,999,0,Paid,999,0,999,90.81818182,1,100
